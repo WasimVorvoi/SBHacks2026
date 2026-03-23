@@ -2,7 +2,7 @@
 
 **Clutch** is a gamified productivity app that turns your to-do list into a competitive game. Earn points for completing tasks, climb leaderboards, challenge friends, and unlock achievements — all powered by AI difficulty ratings.
 
-Built for **HackSB 2026** at UC Santa Barbara.
+Built for **HackSB 2026**.
 
 ---
 
