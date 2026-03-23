@@ -120,7 +120,7 @@ HackSB26/
 
 ## Team
 
-Built at HackSB 2026 — UC Santa Barbara
+Built at HackSB 2026
 
 ---
 
